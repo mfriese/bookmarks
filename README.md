@@ -4,6 +4,7 @@
 
 - [**Chrome Music Lab**](https://musiclab.chromeexperiments.com/): Eine faszinierende Sammlung von Instrumenten und experimentellen Soundmaschinen.
 - [**Retro Gaming Music**](https://downloads.khinsider.com/): Soundtracks und Musik aus klassischen Videospielen.
+- [**archive.org soundtracks**](https://archive.org/details/hifidelity_soundtracks?tab=collection): Riesen Soundtrack Sammlung im archive.
 
 ## Gaming
 
