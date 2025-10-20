@@ -38,7 +38,7 @@
 - [**Keypirinha**](https://keypirinha.com/): Ein leistungsstarker Keystroke-Launcher.
 - [**Astro Grep**](https://astrogrep.sourceforge.net/): Eine schnelle Suchmaschine für Texte.
 - [**koin kmp injection framework**](https://insert-koin.io/): Injection Framework für Kotlin.
-- [**https://kotlinlang.org/docs/multiplatform.html**](https://kotlinlang.org/docs/multiplatform.html): Offizielle Kotlin Doku.
+- [**Kotlin Language**](https://kotlinlang.org/docs/multiplatform.html): Offizielle Kotlin Doku.
 
 ## Tutorials
 
