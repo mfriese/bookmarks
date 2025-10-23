@@ -46,6 +46,7 @@
 - [**fd**](https://github.com/sharkdp/fd): Finde Dateien anhand ihres Namens - das bessere 'find'.
 - [**Keypirinha**](https://keypirinha.com/): Ein leistungsstarker Keystroke-Launcher.
 - [**Astro Grep**](https://astrogrep.sourceforge.net/): Eine schnelle Suchmaschine für Texte.
+- [**Extensiver git client**](https://github.com/jesseduffield/lazygit): Übersichtlicher git client in der Kommandozeile.
 
 ## Tutorials
 
