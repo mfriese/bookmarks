@@ -33,12 +33,14 @@
 - [**Filmfriend**](https://koeln.filmfriend.de/de/): Filmfriend-Zugang der Bibliotheken von Köln.
 - [**Rare Wares**](https://www.rarewares.org): Audio-Encoder wie LAME und Ogg Vorbis.
 
-## Open Source
+## KI
 
 - [**LLamaSharp**](https://github.com/SciSharp/LLamaSharp): Eine plattformübergreifende Bibliothek, um LLaMA/LLaVA-Modelle lokal auszuführen.
 - [**oobabooga**](https://github.com/oobabooga/text-generation-webui): Eine Gradio-Web-UI für große Sprachmodelle.
-- [**Ente**](https://github.com/ente-io/ente): Eine Open-Source-Plattform für Ende-zu-Ende-verschlüsselte Datenspeicherung.
-- [**Khoj**](https://github.com/khoj-ai/khoj): Eine Anwendung zur Erstellung persönlicher, KI-basierter Assistenten.
+
+## Windows (Terminal)
+
+- [**edit**](https://github.com/microsoft/edit): Offizieller Editor für das Windows Terminal. Schlank und schnell.
 - [**lsd**](https://github.com/lsd-rs/lsd): Ein verbessertes `ls`-Kommando für die Kommandozeile.
 - [**Keypirinha**](https://keypirinha.com/): Ein leistungsstarker Keystroke-Launcher.
 - [**Astro Grep**](https://astrogrep.sourceforge.net/): Eine schnelle Suchmaschine für Texte.
