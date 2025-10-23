@@ -38,6 +38,7 @@
 - [**Keypirinha**](https://keypirinha.com/): Ein leistungsstarker Keystroke-Launcher.
 - [**Astro Grep**](https://astrogrep.sourceforge.net/): Eine schnelle Suchmaschine für Texte.
 - [**lazygit**](https://github.com/jesseduffield/lazygit): Übersichtlicher git client in der Kommandozeile.
+- [**gitui**](https://github.com/gitui-org/gitui): Übersichtlicher, schneller, intuitiver git client in der Kommandozeile.
 
 ## Tutorials
 
