@@ -27,6 +27,7 @@
 ## Windows (UI)
 
 - [**f.lux**](https://justgetflux.com/): Monitor abhängig von der Tageszeit justieren lassen.
+- [**SourceGit**](https://github.com/sourcegit-scm/sourcegit): Sehr guter git client für alle Platformen.
 
 ## Windows (Terminal)
 
