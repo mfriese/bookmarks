@@ -7,6 +7,7 @@
 ## Language
 
 - [**Kotlin Language**](https://kotlinlang.org/docs/multiplatform.html): Offizielle Kotlin Doku.
+- [**Kotlin in 100 Seconds**](https://www.youtube.com/watch?v=xT8oP0wy-A0): Kompaktes Youtube Video zu Kotlin.
 
 ## Knowhow
 
