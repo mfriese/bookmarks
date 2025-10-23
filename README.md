@@ -4,20 +4,6 @@
 
 - [Android Development](./android.md)
 
-## Musik
-
-- [**Chrome Music Lab**](https://musiclab.chromeexperiments.com/): Eine faszinierende Sammlung von Instrumenten und experimentellen Soundmaschinen.
-- [**Retro Gaming Music**](https://downloads.khinsider.com/): Soundtracks und Musik aus klassischen Videospielen.
-- [**archive.org soundtracks**](https://archive.org/details/hifidelity_soundtracks?tab=collection): Riesen Soundtrack Sammlung im archive.
-
-## Gaming
-
-- [**Retro Gaming Magazines**](https://archive.org/details/@mattarchiver): Eine Sammlung gescannter Vintage-Video-Gaming-Magazine, online verfügbar.
-- [**Games Nostalgia**](https://gamesnostalgia.com/): Download und Spielen von klassischen Spielen, angepasst für moderne Computer.
-- [**Open Source Game Clones**](https://osgameclones.com/): Eine Liste von Open-Source-Nachbildungen klassischer Spiele, entwickelt von der Community.
-- [**My Abandonware**](https://www.myabandonware.com/): Ein umfangreiches Archiv von Abandonware-Spielen, die kostenlos heruntergeladen werden können.
-- [**Retro Place**](https://www.retroplace.com/en): Ein Marktplatz für den Kauf und Verkauf von Retro-Spielen und Konsolen.
-
 ## Bücher und Artikel
 
 - [**Roadmaps**](https://roadmap.sh/): Lernpfade für viele Themen.
@@ -38,6 +24,10 @@
 - [**LLamaSharp**](https://github.com/SciSharp/LLamaSharp): Eine plattformübergreifende Bibliothek, um LLaMA/LLaVA-Modelle lokal auszuführen.
 - [**oobabooga**](https://github.com/oobabooga/text-generation-webui): Eine Gradio-Web-UI für große Sprachmodelle.
 
+## Windows (UI)
+
+- [**f.lux**](https://justgetflux.com/): Monitor abhängig von der Tageszeit justieren lassen.
+
 ## Windows (Terminal)
 
 - [**edit**](https://github.com/microsoft/edit): Offizieller Editor für das Windows Terminal. Schlank und schnell.
@@ -52,3 +42,17 @@
 
 - [**Use Refresh Tokens**](https://auth0.com/blog/managing-tokens-in-dotnet-maui/#Use-Refresh-Tokens): Auth0-Tutorial zur Verwendung von Refresh Tokens.
 - [**Refreshing an Access Token**](https://www.oauth.com/oauth2-servers/making-authenticated-requests/refreshing-an-access-token/): Ein Leitfaden zum Erneuern von Access Tokens.
+
+## Musik
+
+- [**Chrome Music Lab**](https://musiclab.chromeexperiments.com/): Eine faszinierende Sammlung von Instrumenten und experimentellen Soundmaschinen.
+- [**Retro Gaming Music**](https://downloads.khinsider.com/): Soundtracks und Musik aus klassischen Videospielen.
+- [**archive.org soundtracks**](https://archive.org/details/hifidelity_soundtracks?tab=collection): Riesen Soundtrack Sammlung im archive.
+
+## Gaming
+
+- [**Retro Gaming Magazines**](https://archive.org/details/@mattarchiver): Eine Sammlung gescannter Vintage-Video-Gaming-Magazine, online verfügbar.
+- [**Games Nostalgia**](https://gamesnostalgia.com/): Download und Spielen von klassischen Spielen, angepasst für moderne Computer.
+- [**Open Source Game Clones**](https://osgameclones.com/): Eine Liste von Open-Source-Nachbildungen klassischer Spiele, entwickelt von der Community.
+- [**My Abandonware**](https://www.myabandonware.com/): Ein umfangreiches Archiv von Abandonware-Spielen, die kostenlos heruntergeladen werden können.
+- [**Retro Place**](https://www.retroplace.com/en): Ein Marktplatz für den Kauf und Verkauf von Retro-Spielen und Konsolen.
