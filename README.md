@@ -1,8 +1,6 @@
 # Linksammlung
 
-## Subpages
-
-- [Android Development](./android.md)
+- Subpage: [Android Development](./android.md)
 
 ## Bücher und Artikel
 
