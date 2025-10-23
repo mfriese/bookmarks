@@ -1,5 +1,9 @@
 # Linksammlung
 
+## Subpages
+
+- [Android Development](./android.md)
+
 ## Musik
 
 - [**Chrome Music Lab**](https://musiclab.chromeexperiments.com/): Eine faszinierende Sammlung von Instrumenten und experimentellen Soundmaschinen.
@@ -37,8 +41,6 @@
 - [**lsd**](https://github.com/lsd-rs/lsd): Ein verbessertes `ls`-Kommando für die Kommandozeile.
 - [**Keypirinha**](https://keypirinha.com/): Ein leistungsstarker Keystroke-Launcher.
 - [**Astro Grep**](https://astrogrep.sourceforge.net/): Eine schnelle Suchmaschine für Texte.
-- [**koin kmp injection framework**](https://insert-koin.io/): Injection Framework für Kotlin.
-- [**Kotlin Language**](https://kotlinlang.org/docs/multiplatform.html): Offizielle Kotlin Doku.
 
 ## Tutorials
 
