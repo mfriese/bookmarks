@@ -20,6 +20,7 @@
 
 ## Bücher und Artikel
 
+- [**Roadmaps**](https://roadmap.sh/): Lernpfade für viele Themen.
 - [**Free Programming Books**](https://github.com/EbookFoundation/free-programming-books): Eine umfangreiche Sammlung kostenloser Programmierbücher.
 - [**Goal Kicker**](https://goalkicker.com/): Kostenlos herunterladbare Programmierhandbücher.
 - [**Getting Started with ML.Net**](https://blog.jetbrains.com/dotnet/2023/02/01/getting-started-with-ml-dotnet-machine-learning/): Ein JetBrains-Artikel, der in ML.Net einführt.
