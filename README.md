@@ -41,6 +41,7 @@
 ## Windows (Terminal)
 
 - [**edit**](https://github.com/microsoft/edit): Offizieller Editor für das Windows Terminal. Schlank und schnell.
+- [**micro**](https://github.com/zyedidia/micro): Das bessere aber schwergewichtigere edit. Mit Syntax Highlighting.
 - [**lsd**](https://github.com/lsd-rs/lsd): Ein verbessertes `ls`-Kommando für die Kommandozeile.
 - [**Keypirinha**](https://keypirinha.com/): Ein leistungsstarker Keystroke-Launcher.
 - [**Astro Grep**](https://astrogrep.sourceforge.net/): Eine schnelle Suchmaschine für Texte.
