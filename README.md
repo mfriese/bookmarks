@@ -44,9 +44,9 @@
 - [**Use Refresh Tokens**](https://auth0.com/blog/managing-tokens-in-dotnet-maui/#Use-Refresh-Tokens): Auth0-Tutorial zur Verwendung von Refresh Tokens.
 - [**Refreshing an Access Token**](https://www.oauth.com/oauth2-servers/making-authenticated-requests/refreshing-an-access-token/): Ein Leitfaden zum Erneuern von Access Tokens.
 
-## Kreative
+## Kreativ
 
-- [**Vecteery**](https://www.vecteezy.com/): Teilweise freie Vektorgrafiken von hoher Qualität.
+- [**Vecteezy**](https://www.vecteezy.com/): Teilweise freie Vektorgrafiken von hoher Qualität.
 
 ## Musik
 
