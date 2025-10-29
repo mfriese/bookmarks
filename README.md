@@ -11,6 +11,7 @@
 - [**Introduction to Reactive**](https://introtorx.com/): Eine Einführung in reaktive Programmierung.
 - [**Awesome**](https://github.com/sindresorhus/awesome): Eine kuratierte Sammlung von tollen Open-Source-Projekten.
 - [**Awesome Artificial Intelligence**](https://github.com/owainlewis/awesome-artificial-intelligence#readme): Eine umfassende Liste zu Künstlicher Intelligenz.
+- [devIQ](https://deviq.com/): Software Design Artikel.
 
 ## Multimedia
 
