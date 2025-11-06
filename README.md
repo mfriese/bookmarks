@@ -63,3 +63,13 @@
 - [**My Abandonware**](https://www.myabandonware.com/): Ein umfangreiches Archiv von Abandonware-Spielen, die kostenlos heruntergeladen werden können.
 - [**Retro Place**](https://www.retroplace.com/en): Ein Marktplatz für den Kauf und Verkauf von Retro-Spielen und Konsolen.
 - [**omnispeak**](https://github.com/sulix/omnispeak): Pixel perfect reimplementation of commander keen.
+
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
