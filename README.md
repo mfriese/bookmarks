@@ -43,6 +43,7 @@
 
 - [**Use Refresh Tokens**](https://auth0.com/blog/managing-tokens-in-dotnet-maui/#Use-Refresh-Tokens): Auth0-Tutorial zur Verwendung von Refresh Tokens.
 - [**Refreshing an Access Token**](https://www.oauth.com/oauth2-servers/making-authenticated-requests/refreshing-an-access-token/): Ein Leitfaden zum Erneuern von Access Tokens.
+- [**mermaid**](https://mermaid.js.org/): Chart und Diagramm generator.
 
 ## Kreativ
 
